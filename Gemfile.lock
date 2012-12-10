@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    subtlepatterns (0.0.1)
+    subtlepatterns (0.0.2)
       rails (~> 3.2.9)
 
 GEM
