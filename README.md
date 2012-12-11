@@ -23,9 +23,11 @@ Add application.css (Ruby on Rails):
 
 ```
 *= require subtlepatterns
+```
 
 or  
 
+```
 *= require subtlepatterns/prefix
 ```
 
