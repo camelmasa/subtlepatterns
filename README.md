@@ -45,6 +45,7 @@ CSS class List(add prefix)
 =======
 
 <table>
+<tr><th>class name</th><th>background image</th></tr>
 <tr><td>.subtlepattern_zigzag</td><td>zigzag.png</td></tr>
 <tr><td>.subtlepattern_xv</td><td>xv.png</td></tr>
 <tr><td>.subtlepattern_woven</td><td>woven.png</td></tr>
@@ -362,6 +363,7 @@ CSS class List(no prefix)
 =======
 
 <table>
+<tr><th>class name</th><th>background image</th></tr>
 <tr><td>.zigzag</td><td>zigzag.png</td></tr>
 <tr><td>.xv</td><td>xv.png</td></tr>
 <tr><td>.woven</td><td>woven.png</td></tr>
