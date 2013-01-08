@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "gem for http://subtlepatterns.com"
   s.description = "gem for http://subtlepatterns.com"
 
-  s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", "~> 3.2.9"
