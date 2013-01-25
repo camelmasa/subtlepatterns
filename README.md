@@ -677,3 +677,5 @@ CSS class List(no prefix)
 <tr><td>.degreee_fabric</td><td>45degreee_fabric.png</td></tr>
 <tr><td>.45degreee_fabric</td><td>45degreee_fabric.png</td></tr>
 </table>
+
+enjoy!
